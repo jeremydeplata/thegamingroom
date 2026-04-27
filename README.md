@@ -1,4 +1,4 @@
-# thegamingroom
+# The Gaming Room
 Software document and prototype for the web based game application Draw It or Lose it
 
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
